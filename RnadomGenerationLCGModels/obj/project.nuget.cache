@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fGCCs42CnK2qu0GyB31TEsMjasbgunhjZLhohwbcASM4hoVuZDzQsqPdN/DFa11V0rzrO1wkG5JUoQ1MtN0AA==",
+  "success": true,
+  "projectFilePath": "H:\\RnadomGenerationLCGSimulation\\RnadomGenerationLCGModels\\RnadomGenerationLCGModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed Ali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RnadomGenerationLCGModels", "RnadomGenerationLCGModels\RnadomGenerationLCGModels.csproj", "{22B40DA0-10A6-4C85-B564-A0ACF722C62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnadomGenerationLCGSimulation", "RnadomGenerationLCGSimulation\RnadomGenerationLCGSimulation.csproj", "{633B0ACC-F8EC-4928-96AC-3180726A1804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B40DA0-10A6-4C85-B564-A0ACF722C62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B40DA0-10A6-4C85-B564-A0ACF722C62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B40DA0-10A6-4C85-B564-A0ACF722C62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B40DA0-10A6-4C85-B564-A0ACF722C62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633B0ACC-F8EC-4928-96AC-3180726A1804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633B0ACC-F8EC-4928-96AC-3180726A1804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633B0ACC-F8EC-4928-96AC-3180726A1804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633B0ACC-F8EC-4928-96AC-3180726A1804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24339C55-FE56-44B9-BE8B-89F16731B597}
+	EndGlobalSection
+EndGlobal
