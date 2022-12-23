@@ -20,3 +20,4 @@ H:\RnadomGenerationLCGSimulation\RnadomGenerationLCGSimulation\bin\Debug\netcore
 H:\RnadomGenerationLCGSimulation\RnadomGenerationLCGSimulation\obj\Debug\netcoreapp3.1\RnadomGenerationLCGSimulation.dll
 H:\RnadomGenerationLCGSimulation\RnadomGenerationLCGSimulation\obj\Debug\netcoreapp3.1\RnadomGenerationLCGSimulation.pdb
 H:\RnadomGenerationLCGSimulation\RnadomGenerationLCGSimulation\obj\Debug\netcoreapp3.1\RnadomGenerationLCGSimulation.genruntimeconfig.cache
+H:\RnadomGenerationLCGSimulation\RnadomGenerationLCGSimulation\obj\Debug\netcoreapp3.1\RnadomGenerationLCGSimulation.csproj.CopyComplete

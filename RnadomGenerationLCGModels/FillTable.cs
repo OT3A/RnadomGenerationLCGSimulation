@@ -29,7 +29,7 @@ namespace RnadomGenerationLCGModels
                     if(check)
                     {
                         // First Algorithm To Calculate Cicle Length
-                         LCGFunction.CalculateCicleLength(first, next,ref count ,ref check);
+                       //  LCGFunction.CalculateCicleLength(first, next,ref count ,ref check);
 
                     }
                 }
@@ -43,7 +43,7 @@ namespace RnadomGenerationLCGModels
                sys.Cyclelength = count;
 
              // Secound Algorithm To Calculate Cicle Length
-            //     LCGFunction.CalculateCicleLength(sys); 
+                LCGFunction.CalculateCicleLengthAlgo(sys); 
 
         }
 
